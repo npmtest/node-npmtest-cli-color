@@ -1,4 +1,7 @@
-# test coverage for  [cli-color (v1.2.0)](https://github.com/medikoo/cli-color#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cli-color.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cli-color) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cli-color.svg)](https://travis-ci.org/npmtest/node-npmtest-cli-color)
+# npmtest-cli-color
+
+#### test coverage for  [cli-color (v1.2.0)](https://github.com/medikoo/cli-color#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cli-color.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cli-color) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cli-color.svg)](https://travis-ci.org/npmtest/node-npmtest-cli-color)
+
 #### Colors, formatting and other tools for the console
 
 [![NPM](https://nodei.co/npm/cli-color.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cli-color)
